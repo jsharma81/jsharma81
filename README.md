@@ -4,7 +4,7 @@
 **jsharma81/jsharma81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Full Name: Jai Sharma
-OPS445 Section: NCC
+OPS445 Section: ncc
 
 Here are some ideas to get you started:
 
